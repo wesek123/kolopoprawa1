@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\kolopopr\141035\141035\bin\Debug\141035.exe.config
+C:\Users\local\Desktop\kolopopr\141035\141035\obj\Debug\141035.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\kolopopr\141035\141035\bin\Debug\141035.exe
+C:\Users\local\Desktop\kolopopr\141035\141035\bin\Debug\141035.pdb
+C:\Users\local\Desktop\kolopopr\141035\141035\obj\Debug\141035.exe
+C:\Users\local\Desktop\kolopopr\141035\141035\obj\Debug\141035.pdb
